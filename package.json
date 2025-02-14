@@ -1,0 +1,16 @@
+{
+  "name": "checkem",
+  "version": "0.0.2-beta.1",
+  "type": "module",
+  "main": "./src/checkem.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex Stevovich",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexstevovich/checkem.git"
+  },
+  "license": "MIT",
+  "description": "A ledger to tell you when the checksum of anything has changed since the last time you checked."
+}
